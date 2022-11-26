@@ -7,6 +7,7 @@ public static void main(String[] args) {
 	int k=j/i;
 	try {
 		System.out.println("iam try block");
+		System.out.println("I Am running succefully");
 	}
 	catch (ArithmeticException excp){
 		
