@@ -9,5 +9,11 @@ public static void main(String[] args) {
 			
 		}
 		System.out.println(rev);
+	if(org.equals(rev)){
+		System.out.println("Given String is palindrome");
+}
+	else{
+		System.out.println("Given String is Not Palindrome");
+}
 }
 }
