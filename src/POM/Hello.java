@@ -1,7 +1,7 @@
 package POM;
 
 public class Hello {
-public static void main(String[] args) {
+public static void main(String_Check[] args) {
 	int i=10;
 	int j=0;
 	int k=j/i;
